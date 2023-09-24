@@ -1,0 +1,482 @@
+[
+    {
+        "instruction": "整数的定义",
+        "input": " ",
+        "output": " 整数是由正整数、零和负整数组成的数字集合。",
+        "history": " "
+    },
+    {
+        "instruction": "有理数的定义",
+        "input": " ",
+        "output": " 有理数是可以表示为两个整数的比例的数字。它们可以是整数、分数或带有小数点的数，而且它们在数轴上都有对应的位置。",
+        "history": " "
+    },
+    {
+        "instruction": "正数的定义",
+        "input": " ",
+        "output": " 正数是大于零的有理数，通常表示为正数。",
+        "history": " "
+    },
+    {
+        "instruction": "负数的定义",
+        "input": " ",
+        "output": " 负数是小于零的有理数，通常表示为负数。",
+        "history": " "
+    },
+    {
+        "instruction": "分数的定义",
+        "input": " ",
+        "output": " 分数是一个整数除以另一个整数的结果。分数由分子和分母组成，分子表示分数的一部分，分母表示总共分成的等份。",
+        "history": " "
+    },
+    {
+        "instruction": "小数的定义",
+        "input": " ",
+        "output": " 小数是分数的一种表示形式，其中分子为整数，分母为10的幂或它的倍数。",
+        "history": " "
+    },
+    {
+        "instruction": "分数的约分的定义",
+        "input": " ",
+        "output": " 分数的约分是将分子和分母同时除以它们的最大公约数，使分数变得最简化。",
+        "history": " "
+    },
+    {
+        "instruction": "分数的通分的定义",
+        "input": " ",
+        "output": " 分数的通分是将不同分母的分数转化为具有相同分母的分数，以便进行比较和运算。",
+        "history": " "
+    },
+    {
+        "instruction": "正比例关系的定义",
+        "input": " ",
+        "output": " 正比例关系是指两个变量之间的关系，其中一个变量的增加导致另一个变量按相同比例增加。",
+        "history": " "
+    },
+    {
+        "instruction": "反比例关系的定义",
+        "input": " ",
+        "output": " 反比例关系是指两个变量之间的关系，其中一个变量的增加导致另一个变量按相反的比例减少。",
+        "history": " "
+    },
+    {
+        "instruction": "平行线的定义",
+        "input": " ",
+        "output": " 平行线是在同一平面内且永不相交的直线，它们具有相同的斜率。",
+        "history": " "
+    },
+    {
+        "instruction": "垂直线的定义",
+        "input": " ",
+        "output": " 垂直线是与另一条线交于直角的线，它们的斜率互为负倒数。",
+        "history": " "
+    },
+    {
+        "instruction": "多边形的定义",
+        "input": " ",
+        "output": " 多边形是一个由线段组成的封闭图形，其中的线段被称为边，多边形的每个交点被称为顶点。",
+        "history": " "
+    },
+    {
+        "instruction": "三角形的定义",
+        "input": " ",
+        "output": " 三角形是一个具有三条边和三个顶点的多边形。",
+        "history": " "
+    },
+    {
+        "instruction": "直角三角形的定义",
+        "input": " ",
+        "output": " 直角三角形是一个三角形，其中有一个内角是90度。",
+        "history": " "
+    },
+    {
+        "instruction": "等边三角形的定义",
+        "input": " ",
+        "output": " 等边三角形是一个三边都相等的三角形。",
+        "history": " "
+    },
+    {
+        "instruction": "等腰三角形的定义",
+        "input": " ",
+        "output": " 等腰三角形是一个至少有两条边相等的三角形。",
+        "history": " "
+    },
+    {
+        "instruction": "直线角的定义",
+        "input": " ",
+        "output": " 直线角是两条相交线之间的角，它们的度数总和为180度。",
+        "history": " "
+    },
+    {
+        "instruction": "垂直角的定义",
+        "input": " ",
+        "output": " 垂直角是两条相交线之间的角，它们的度数总和为90度。",
+        "history": " "
+    },
+    {
+        "instruction": "直线的定义",
+        "input": " ",
+        "output": " 直线是一条无限延伸的线段，没有起点和终点。",
+        "history": " "
+    },
+    {
+        "instruction": "相交线段的定义",
+        "input": " ",
+        "output": " 相交线段是两条线段在某一点相交的情况，它们可以有不同的交点。",
+        "history": " "
+    },
+    {
+        "instruction": "平面几何图形的定义",
+        "input": " ",
+        "output": " 平面几何图形是在平面上的图形，包括点、线、多边形等。",
+        "history": " "
+    },
+    {
+        "instruction": "矩形的定义",
+        "input": " ",
+        "output": " 矩形是一个具有四个直角的平行四边形。",
+        "history": " "
+    },
+    {
+        "instruction": "正方形的定义",
+        "input": " ",
+        "output": " 正方形是一个四边都相等且具有四个直角的矩形。",
+        "history": " "
+    },
+    {
+        "instruction": "圆的定义",
+        "input": " ",
+        "output": " 圆是一个平面图形，由一个固定点（圆心）到所有其他点的距离都相等的点的集合。",
+        "history": " "
+    },
+    {
+        "instruction": "直径的定义",
+        "input": " ",
+        "output": " 圆的直径是通过圆心并且与圆的边界相交的线段，它的两个端点在圆的边界上。",
+        "history": " "
+    },
+    {
+        "instruction": "半径的定义",
+        "input": " ",
+        "output": " 圆的半径是从圆心到圆的边界的距离。",
+        "history": " "
+    },
+    {
+        "instruction": "圆的周长的定义",
+        "input": " ",
+        "output": " 圆的周长是沿圆的边界的总长度，通常表示为2πr，其中r是半径。",
+        "history": " "
+    },
+    {
+        "instruction": "圆的面积的定义",
+        "input": " ",
+        "output": " 圆的面积是圆内部的区域，通常表示为πr²，其中r是半径。",
+        "history": " "
+    },
+    {
+        "instruction": "平行线段的定义",
+        "input": " ",
+        "output": " 平行线段是具有相同方向且永不相交的线段。",
+        "history": " "
+    },
+    {
+        "instruction": "垂直线段的定义",
+        "input": " ",
+        "output": " 垂直线段是与另一个线段的交角为90度的线段。",
+        "history": " "
+    },
+    {
+        "instruction": "直角的定义",
+        "input": " ",
+        "output": " 直角是一个角，其度数为90度，通常表示为一个小方块。",
+        "history": " "
+    },
+    {
+        "instruction": "相似图形的定义",
+        "input": " ",
+        "output": " 相似图形是具有相同形状但可能不同大小的图形。它们的对应角度相等，而对应边的长度成比例。",
+        "history": " "
+    },
+    {
+        "instruction": "正比例的定义",
+        "input": " ",
+        "output": " 正比例是指两个变量之间的关系，其中一个变量的增加导致另一个变量按相同比例增加。",
+        "history": " "
+    },
+    {
+        "instruction": "反比例的定义",
+        "input": " ",
+        "output": " 反比例是指两个变量之间的关系，其中一个变量的增加导致另一个变量按相反的比例减少。",
+        "history": " "
+    },
+    {
+        "instruction": "统计数据的定义",
+        "input": " ",
+        "output": " 统计数据是关于一组数据的信息，包括均值、中位数、众数、范围等。",
+        "history": " "
+    },
+    {
+        "instruction": "图表解析的定义",
+        "input": " ",
+        "output": " 图表解析是根据图表（如柱状图、折线图）中的数据进行数据分析和推断。",
+        "history": " "
+    },
+    {
+        "instruction": "概率的定义",
+        "input": " ",
+        "output": " 概率是事件发生的可能性，通常用0到1之间的数字表示，0表示不可能，1表示肯定发生。",
+        "history": " "
+    },
+    {
+        "instruction": "绝对值的定义",
+        "input": " ",
+        "output": " 绝对值是一个实数的非负数表示，它表示这个数到零的距离。",
+        "history": " "
+    },
+    {
+        "instruction": "数轴的定义",
+        "input": " ",
+        "output": " 数轴是一个用来表示实数的直线，上面的每一个点都对应一个实数。",
+        "history": " "
+    },
+    {
+        "instruction": "无理数的定义",
+        "input": " ",
+        "output": " 无理数是不能被表示为两个整数的比例的数字，例如根号2或圆周率π。",
+        "history": " "
+    },
+    {
+        "instruction": "相反数的定义",
+        "input": " ",
+        "output": " 相反数是与一个数相加得到零的数，例如一个数a的相反数是-a。",
+        "history": " "
+    },
+    {
+        "instruction": "一元一次方程的定义",
+        "input": " ",
+        "output": " 一元一次方程是一个形如ax + b = 0的方程，其中a和b是已知系数，x是未知数。",
+        "history": " "
+    },
+    {
+        "instruction": "一元一次方程的解的定义",
+        "input": " ",
+        "output": " 一元一次方程的解是满足方程的未知数值，使得方程两边相等。",
+        "history": " "
+    },
+    {
+        "instruction": "等式的定义",
+        "input": " ",
+        "output": " 等式是一个数学表达式，表明两个表达式或两个值是相等的。",
+        "history": " "
+    },
+    {
+        "instruction": "不等式的定义",
+        "input": " ",
+        "output": " 不等式是一个数学表达式，表明两个表达式或两个值不相等，通常用于比较大小关系。",
+        "history": " "
+    },
+    {
+        "instruction": "集合的定义",
+        "input": " ",
+        "output": " 集合是一组对象的集合，可以用大括号{}表示，其中的对象称为元素。",
+        "history": " "
+    },
+    {
+        "instruction": "元素的定义",
+        "input": " ",
+        "output": " 集合中的每个对象称为元素。",
+        "history": " "
+    },
+    {
+        "instruction": "并集的定义",
+        "input": " ",
+        "output": " 两个或多个集合的并集是包含这些集合中所有不重复元素的集合。",
+        "history": " "
+    },
+    {
+        "instruction": "交集的定义",
+        "input": " ",
+        "output": " 两个或多个集合的交集是包含同时属于这些集合的元素的集合。",
+        "history": " "
+    },
+    {
+        "instruction": "子集的定义",
+        "input": " ",
+        "output": " 如果一个集合的所有元素都包含在另一个集合中，则该集合称为另一个集合的子集。",
+        "history": " "
+    },
+    {
+        "instruction": "倍数的定义",
+        "input": " ",
+        "output": " 一个整数是另一个整数的倍数，如果它可以被另一个整数整除，而不产生余数。",
+        "history": " "
+    },
+    {
+        "instruction": "公倍数的定义",
+        "input": " ",
+        "output": " 两个或多个整数的公倍数是能同时整除这些整数的整数。",
+        "history": " "
+    },
+    {
+        "instruction": "最小公倍数（LCM）的定义",
+        "input": " ",
+        "output": " 两个或多个整数的最小公倍数是能同时整除这些整数的最小整数。",
+        "history": " "
+    },
+    {
+        "instruction": "约数的定义",
+        "input": " ",
+        "output": " 一个整数的约数是能整除该整数的正整数。",
+        "history": " "
+    },
+    {
+        "instruction": "最大公约数（GCD）的定义",
+        "input": " ",
+        "output": " 两个或多个整数的最大公约数是能同时整除这些整数的最大整数。",
+        "history": " "
+    },
+    {
+        "instruction": "分配律的定义",
+        "input": " ",
+        "output": " 分配律是数学中的一个基本性质，用于解释加法和乘法之间的关系，例如a(b + c) = ab + ac。",
+        "history": " "
+    },
+    {
+        "instruction": "因式分解的定义",
+        "input": " ",
+        "output": " 因式分解是将一个表达式分解为多个因子的过程，通常用于简化或解决方程。",
+        "history": " "
+    },
+    {
+        "instruction": "图形的坐标的定义",
+        "input": " ",
+        "output": " 图形的坐标是用来表示点的位置的一对数值，通常表示为(x, y)，其中x是水平坐标，y是垂直坐标。",
+        "history": " "
+    },
+    {
+        "instruction": "平移的定义",
+        "input": " ",
+        "output": " 平移是将图形沿着平面上的直线移动，而不改变其形状和大小。",
+        "history": " "
+    },
+    {
+        "instruction": "图形的旋转的定义",
+        "input": " ",
+        "output": " 图形的旋转是将图形绕一个固定点旋转一定角度，而不改变其形状和大小。",
+        "history": " "
+    },
+    {
+        "instruction": "图形的反射的定义",
+        "input": " ",
+        "output": " 图形的反射是将图形关于一条直线进行镜像翻转，产生一个对称的图形。",
+        "history": " "
+    },
+    {
+        "instruction": "平面镜像的定义",
+        "input": " ",
+        "output": " 平面镜像是一种反射，其中图形通过平面对称翻转。",
+        "history": " "
+    },
+    {
+        "instruction": "均值（平均值）的定义",
+        "input": " ",
+        "output": " 均值是一组数的总和除以数的个数，用来表示数据集的平均水平。",
+        "history": " "
+    },
+    {
+        "instruction": "中位数的定义",
+        "input": " ",
+        "output": " 中位数是一组数中的中间值，当数按升序排列时，它位于中间位置。",
+        "history": " "
+    },
+    {
+        "instruction": "众数的定义",
+        "input": " ",
+        "output": " 众数是一组数中出现次数最多的数值。",
+        "history": " "
+    },
+    {
+        "instruction": "范围的定义",
+        "input": " ",
+        "output": " 范围是一组数中最大值和最小值之间的差。",
+        "history": " "
+    },
+    {
+        "instruction": "横坐标的定义",
+        "input": " ",
+        "output": " 横坐标是点在坐标系中的水平位置，通常表示为x。",
+        "history": " "
+    },
+    {
+        "instruction": "纵坐标的定义",
+        "input": " ",
+        "output": " 纵坐标是点在坐标系中的垂直位置，通常表示为y。",
+        "history": " "
+    },
+    {
+        "instruction": "坐标点的定义",
+        "input": " ",
+        "output": " 坐标点是在坐标系中由横坐标和纵坐标表示的点的位置。",
+        "history": " "
+    },
+    {
+        "instruction": "数轴上的点的定义",
+        "input": " ",
+        "output": " 数轴上的点是表示实数的点的位置，它们沿着数轴排列。",
+        "history": " "
+    },
+    {
+        "instruction": "平行四边形的对角线的定义",
+        "input": " ",
+        "output": " 平行四边形的对角线是连接平行四边形相对顶点的线段。",
+        "history": " "
+    },
+    {
+        "instruction": "多边形的内角和外角的定义",
+        "input": " ",
+        "output": " 多边形的内角是在多边形内部的角度，外角则在多边形外部。内角和外角之和等于180度。",
+        "history": " "
+    },
+    {
+        "instruction": "角度的度数表示的定义",
+        "input": " ",
+        "output": " 角度的度数通常用°（度）来表示，一个完整的圆有360度。",
+        "history": " "
+    },
+    {
+        "instruction": "角平分线的定义",
+        "input": " ",
+        "output": " 角平分线是一个从角的顶点开始，把角分成两个相等的部分的线。",
+        "history": " "
+    },
+    {
+        "instruction": "直线与平行线的交角的定义",
+        "input": " ",
+        "output": " 直线与平行线的交角是等于180度的角。",
+        "history": " "
+    },
+    {
+        "instruction": "相交线段的定义",
+        "input": " ",
+        "output": " 相交线段是两条线段在某一点相交的情况，它们可以有不同的交点。",
+        "history": " "
+    },
+    {
+        "instruction": "平面几何图形的定义",
+        "input": " ",
+        "output": " 平面几何图形是在平面上的图形，包括点、线、多边形等。",
+        "history": " "
+    },
+    {
+        "instruction": "平行线的定义",
+        "input": " ",
+        "output": " 平行线是在同一平面内且永不相交的直线，它们具有相同的斜率。",
+        "history": " "
+    },
+    {
+        "instruction": "倾斜角度的定义",
+        "input": " ",
+        "output": " 倾斜角度是一条线相对于水平线的夹角。",
+        "history": " "
+    }
+]
